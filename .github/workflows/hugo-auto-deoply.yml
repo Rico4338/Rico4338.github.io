@@ -6,7 +6,7 @@ name: Auto publish to public site
 on:
   push:
     branches: 
-    - master
+    - post
 
 jobs:
   hugo-publish:
