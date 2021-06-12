@@ -21,10 +21,10 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
-      - name: cleanup files of public site
-         working-directory: ./public
-         shell: bash
-         run: find . -type f -name '*.min.*' -exec rm -f {} \;
+      # - name: cleanup files of public site
+      #    working-directory: ./public
+      #    shell: bash
+      #    run: find . -type f -name '*.min.*' -exec rm -f {} \;
 
       - name: Build
         run: hugo --minify --gc
