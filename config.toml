@@ -10,5 +10,9 @@ googleAnalytics = ""
   link = ""
 [params]
   defaultTheme = "dark"
-  title = "title"
-  description = "description"
+
+  [params.header]
+    [params.header.title]
+      logo = "https://i.imgur.com/zQH6NHq.png"
+      name = "理科羊的放牧場"
+      typeit = true
