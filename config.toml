@@ -1,4 +1,14 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://rico4338.github.io/'
+languageCode = 'zh-TW'
+title = '理科羊的放牧場'
 theme = 'LoveIt'
+themesDir = "themes"
+googleAnalytics = ""
+[author]
+  name = "RicoYang"
+  email = ""
+  link = ""
+[params]
+  defaultTheme = "dark"
+  title = "title"
+  description = "description"
