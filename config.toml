@@ -6,7 +6,7 @@ themesDir = "themes"
 googleAnalytics = ""
 [author]
   name = "RicoYang"
-  email = "dscdsc4338@gmail.com"
+  email = "dsc4338@hotmail.com.tw"
   link = ""
 [params]
   defaultTheme = "dark"
@@ -21,7 +21,7 @@ googleAnalytics = ""
       enable = true
       # Gravatar Email for preferred avatar in home page
       # Gravatar 邮箱，用于优先在主页显示的头像
-      gravatarEmail = "dscdsc4338@gmail.com"
+      gravatarEmail = "dsc4338@hotmail.com.tw"
       # URL of avatar shown in home page
       # 主页显示头像的 URL
       avatarURL = "https://s.gravatar.com/avatar/c1d9ab42be6ce5bb2cc021ba34745646?s=80"
