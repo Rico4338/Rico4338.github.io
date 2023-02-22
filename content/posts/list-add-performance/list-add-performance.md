@@ -85,8 +85,9 @@ for (var i = 0; i < 3; i++)
 {{< admonition tip "外部參考" >}}
 * https://stackoverflow.com/questions/2760931/initial-capacity-of-collection-types-e-g-dictionary-list
 * https://blog.darkthread.net/blog/oom-with-adequate-memory/
-{{< /admonition >}}
+{{< /admonition >}}  
 
 
 
 
+{{ partial "disqus.html" . }}
