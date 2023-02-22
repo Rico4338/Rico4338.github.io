@@ -1,7 +1,7 @@
 ---
 title: "關於C# List Add效能的那點事之一"
 date: 2023-02-20T22:57:13+08:00
-draft: true
+draft: false
 ---
 
 # 陣列長度是固定的，但是List\<T\>好像沒有特別的限制耶?
