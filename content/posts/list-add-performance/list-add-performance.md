@@ -77,17 +77,9 @@ for (var i = 0; i < 3; i++)
 
 {{< typeit >}}
 不然 [GC](https://learn.microsoft.com/zh-tw/dotnet/api/system.gc?view=net-7.0) 的 **壓力** 會影響到 *整體效能*的...
-{{< /typeit >}}
-
-
-
+{{< /typeit >}}  
 
 {{< admonition tip "外部參考" >}}
 * https://stackoverflow.com/questions/2760931/initial-capacity-of-collection-types-e-g-dictionary-list
 * https://blog.darkthread.net/blog/oom-with-adequate-memory/
 {{< /admonition >}}  
-
-
-
-
-{{ partial "disqus.html" . }}
