@@ -3,7 +3,7 @@ languageCode = 'zh-TW'
 title = '理科羊的放牧場'
 theme = 'LoveIt'
 themesDir = "themes"
-googleAnalytics = ""
+googleAnalytics = "G-MLSMGB6X2F"
 
 [author]
   name = "RicoYang"
