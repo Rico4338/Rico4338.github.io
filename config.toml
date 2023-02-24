@@ -50,3 +50,15 @@ googleAnalytics = "G-MLSMGB6X2F"
         # Disqus shortname to use Disqus in posts
         # Disqus 的 shortname，用来在文章中启用 Disqus 评论系统
         shortname = "rico4338-github-io"
+
+# Analytics config
+  # 网站分析配置
+  [params.analytics]
+    enable = true
+    # Google Analytics
+    [params.analytics.google]
+      id = "G-MLSMGB6X2F"
+      # whether to anonymize IP
+      # 是否匿名化用户 IP
+      anonymizeIP = true
+    # Fathom Analytics
